@@ -6,7 +6,7 @@
 #define motorpin 26
 #define motorpwm 27
 
-#define motorSlow 138
+#define motorSlow 135
 #define motorFast 255
 
 //DHT
@@ -19,5 +19,5 @@
 #define bits 8
 
 //Blynk Config
-#define myblynk "uPgIWEteat_fblexZnSM3K88BdC1p_EO"
+#define myblynk "966aA1V1xTGoBQ56l4jLbKLSR9IDxDzN"
 #define BLYNK_PRINT Serial
